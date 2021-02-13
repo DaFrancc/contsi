@@ -1,24 +1,21 @@
-/*body {
+body {
   background: url("Pt5_ValleyModified.jpg") no-repeat center center fixed;
 }
-@media only screen and (min-width : 320px) and (max-width : 480px) {
-	background: url(../images/mobile.jpg) no-repeat center center fixed;
-}*/
 h1 {
   font-size: 150px;
-  color: black;
+  color: white;
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
 }
 p {
-  color: black;
+  color: white;
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
   margin-left: 10%;
   margin-right: 10%;
 }
 pre {
-  color: black;
+  color: white;
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
   margin-left: 10%;
