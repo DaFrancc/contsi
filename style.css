@@ -1,5 +1,9 @@
 body {
-  background: url("Pt5_ValleyModified.jpg") no-repeat center center fixed;
+  background-image: url("Pt5_ValleyModified.jpg");
+  background-position: center center;
+  background-attachment: fixed;
+  background-size:cover;
+  background-color: black;
 }
 h1 {
   font-size: 150px;
