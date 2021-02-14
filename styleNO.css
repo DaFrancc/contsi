@@ -14,7 +14,7 @@ html::before {
     content: ' ';
     display: block;
     background-image: url("Pt5_ValleyModified.jpg");
-    background-position: bottom left; 
+    background-position: center center; 
     /*For my instance this is how I have built my bg image. Indexes off the 
 bottom left for consistency*/
     background-size: cover;
