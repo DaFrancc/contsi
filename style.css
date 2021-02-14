@@ -53,15 +53,17 @@ ul li {
   background-color: rgba(0,0,0,.25);
   padding: .25em .5em;
   margin: .1em;
-  transition: .25s;
   border-radius: .5em;
+  border: 0em solid rgba(255, 255, 255, 0.5);
+  transition: .25s;
 }
 ul li:nth-child(even) {
   background-color: rgba(0,0,0,.75);
 }
 ul li:hover {
   transform: scale(1.06);
-  background-color: rgba(255,255,255, .1);
+  background-color: rgba(0, 150, 0, 0.1);
+  border: .1em solid rgba(9, 255, 0, 0.5);
 }
 a {
   color: inherit;
