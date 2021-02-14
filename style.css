@@ -6,25 +6,10 @@ body {
   background-color: rgb(37, 37, 37);
 }
 h1 {
-  font-size: 100pt;
+  font-size: 8em;
   color: white;
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
-}
-p {
-  color: white;
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 20px;
-  margin-left: 10%;
-  margin-right: 10%;
-}
-pre {
-  color: white;
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 20px;
-  margin-left: 10%;
-  margin-right: 10%;
-  white-space:pre-line;
 }
 iframe {
   margin: 0;
@@ -36,20 +21,20 @@ iframe {
 footer {
   color: white;
   font-family: 'Times New Roman', Times, serif;
-  font-size: 15pt;
+  font-size: 1.25em;
   text-align: center;
   position: absolute;
-  bottom: 3%;
-  left: 0;
-  right: 0;
+  bottom: 1.75em;
+  left: 0em;
+  right: 0em;
 }
 .bottom {
   position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
-  width: 100%;
-  height: 10%;
+  width: 120em;
+  height: 7em;
   background-color: black;
   opacity: .5;
 }
