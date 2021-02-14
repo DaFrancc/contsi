@@ -1,4 +1,4 @@
-@media only screen and (max-height: 3840px) {
+@media only screen and (orientation: landscape) {
   body {
     background-image: url("Pt5_ValleyModified.jpg");
     background-position: center;
@@ -63,7 +63,7 @@
     text-decoration: none;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (orientation: portrait) {
   body {
     background-image: url("Pt5_ValleyModified.jpg");
     background-position: center;
