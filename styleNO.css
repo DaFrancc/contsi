@@ -48,25 +48,6 @@ iframe {
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
 }
-footer {
-  font-size: 1.25em;
-  text-align: center;
-  position: relative;
-  bottom: -4em;
-  left: 0em;
-  right: 0em;
-}
-.bottom {
-  position: relative;
-  left: 50%;
-  -ms-transform: translateX(-50%);
-  transform: translateX(-50%);
-  bottom: -10em;
-  width: 100.9%;
-  height: 7em;
-  background-color: black;
-  opacity: .5;
-}
 ul {
   position: absolute;
   width: 2em;
