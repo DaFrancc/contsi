@@ -2,7 +2,8 @@ body {
   background-image: url("Pt5_ValleyModified.jpg");
   background-position: center center;
   background-attachment: fixed;
-  background-size: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
   background-color: rgb(37, 37, 37);
   color: white;
   font-family: 'Times New Roman', Times, serif;
