@@ -1,6 +1,6 @@
 body {
   background-image: url("Pt5_ValleyModified.jpg");
-  background-position: center center;
+  background-position: center;
   background-attachment: fixed;
   background-size:cover;
   background-color: rgb(37, 37, 37);
@@ -58,7 +58,7 @@ ul li {
   line-height: 2em;
   font-size: 2em;
   display: inline-block;
-  background-color: rgba(0,0,0,.25);
+  background-color: rgba(0,0,0,.33);
   padding: .25em .5em;
   margin: .1em;
   border-radius: .5em;
@@ -66,7 +66,7 @@ ul li {
   transition: .25s;
 }
 ul li:nth-child(even) {
-  background-color: rgba(0,0,0,.75);
+  background-color: rgba(0,0,0,.66);
 }
 ul li:hover {
   transform: scale(1.06);
