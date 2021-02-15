@@ -63,7 +63,7 @@ ul li {
   font-size: 2em;
   display: inline-block;
   background-color: rgba(0,0,0,.25);
-  padding: .25em .5em;
+  padding: 0;
   margin: .1em;
   border-radius: .5em;
   border: 0em solid rgba(255, 255, 255, 0.5);
@@ -78,6 +78,9 @@ ul li:hover {
   border: .1em solid rgba(9, 255, 0, 0.5);
 }
 a {
-  color: inherit;
-  text-decoration: none;
+    color: inherit;
+    text-decoration: none;
+    display: block;
+    width: 7em;
+    height: 2em;
 }
