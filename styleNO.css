@@ -57,9 +57,9 @@ ul {
   box-sizing: border-box;
 }
 ul li {
-  width: 7em;
+  width: 8em;
   text-align: center;
-  line-height: 2em;
+  line-height: 3em;
   font-size: 2em;
   display: inline-block;
   background-color: rgba(0,0,0,.25);
@@ -81,6 +81,6 @@ a {
     color: inherit;
     text-decoration: none;
     display: block;
-    width: 7em;
-    height: 2em;
+    width: 8em;
+    height: 3em;
 }
