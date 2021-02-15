@@ -46,7 +46,7 @@
     background-color: rgba(0,0,0,.33);
     padding: 0;
     margin: .1em;
-    border-radius: .5em;
+    border-radius: 2em;
     border: 0em solid rgba(255, 255, 255, 0.5);
     transition: .25s;
   }
@@ -116,7 +116,7 @@
     background-color: rgba(0,0,0,.33);
     padding: 0;
     margin: .1em;
-    border-radius: .5em;
+    border-radius: 2em;
     border: 0em solid rgba(255, 255, 255, 0.5);
     transition: .25s;
   }
